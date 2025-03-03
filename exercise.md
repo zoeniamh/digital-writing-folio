@@ -1,3 +1,4 @@
 # week one
-## initial thoughts
+## initial thoughts and reflections
 <p> todayyyy was a lot. i think once we get into it a bit more i'll be able to grasp it. i'm used to downlaoding stuff and modding games but this is a whole different ball park. dad'll be able to help if i ask - it'l be fine. i'm exctied to get to the actual writing part, and at the concept of making a website for my writing - consolidating everything into one, very me-vibe, space. right now it's veryyyy overwhelming but idk we'll get there. i hope lol </p>
+<p> i still have a lot of questions regarding digital writing and what it actually is, and how this is going to work with my writing. what is considered as digital writing? what isn't? it's all kind of still up in the air at the moment, but i'm excited to watch it all unfold and start to make more sense to me. </p>
