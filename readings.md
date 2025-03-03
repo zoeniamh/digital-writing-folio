@@ -1,4 +1,4 @@
-Read (on top of the weekly readings):
+#Read (on top of the weekly readings):
 
 The kinetic poem "Taroko Gorge"
 
