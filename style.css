@@ -5,21 +5,19 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
   margin: 2em;
-  background: #cbf1e4;
-  background-image: linear-gradient(
-    black,
-    pink,
-    #cbf1e4
+  background: #BFD4DB;
+  background-image: 
+  #BFD4DB
   ); /* change the background colour here - you can specify a solid colour, a gradiant or an image - you can find HEX codes for colours at https://htmlcolorcodes.com/ */
   background-image: cover;
 }
 
 /* font used for dropdown menu - edit this*/
 h2 {
-  font-family: "Kalam", cursive;
+  font-family: "IM Fell DW Pica", serif;
   text-shadow: 1px 1px white;
   font-size: 30px;
-  font-style: bold;
+  font-style: bold; 
   margin-top: 0;
   margin-bottom: 0;
   text-align: center;
@@ -51,13 +49,16 @@ h5 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
   padding: 16px;
   border-radius: 10px 10px 10px 10px;
-  background-image: url("https://cdn.glitch.global/1500d7f0-a2c8-489c-88a2-d7899293787b/clouds.jpeg?v=1704340625786");
+  background-image: url("https://cdn.glitch.global/d7a0b4ac-3b06-4bf3-801b-c9f270fb25e3/pexels-blue-record-766997868-19926864.jpg?v=1741744286281");
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
-  font-family: "PT Serif", serif;
+  font-family: "IM Fell DW Pica", serif;
+  font-style: italic;
   font-size: 1.5em;
+  color: #AEC6CF
 }
+
 
 /* Style the card for phone error alerts (do not edit)*/
 .cardError {
@@ -117,7 +118,9 @@ h5 {
   background-position: center;
   background-size: cover;
   font-size: 28px;
-  font-family: "Kalam", cursive;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: italic;
+  
 }
 
 /* Style the card for the haiku function */
