@@ -42,15 +42,15 @@ function addEval(evalText) {
 function dropdownFunction() {
   var x = document.getElementById("subject").value;
   if (x === "you") {
-    addEval("crisp autumn mornings, two shot cappuccino, pint lager,");
+    addEval("crisp autumn mornings, two shot cappuccino, pint lager, people person, anxious, sketches, scuffed knees, soft hair, boyish smiles");
   } else if (x === "me") {
-    addEval("loud rain on windows, strong iced latte, tulips, sex, sharks, plushies, weed, wine, tortured artist");
+    addEval("loud rain on windows, strong iced latte, tulips, loud, sex, sharks, people pleaser, depressed, weed, wine, tortured artist, cherry red");
   } else if (x === "her") {
-    addEval("hot summer days, decaf flat white, roses, softly spoken, pastel hues, science major");
+    addEval("hot summer days, decaf flat white, roses, softly spoken, pastel hues, science major, happiness reincarnate, vodka lime soda");
   } else if (x === "him") {
-    addEval("🌦️🌨️🫧🌫️☔⚡🥶");
+    addEval("windy nights, cold hands, running, hot sleeper, black cofee, calloused hands, guitar, not you");
   } else if (x === "us") {
-    addEval("🍟🥨🌮🥗🍱");
+    addEval("i think i've forgetton what it was to be with you");
   }
 }
 //end of dropdown function
