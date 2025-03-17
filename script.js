@@ -58,22 +58,27 @@ function dropdownFunction() {
 //start of haiku function
 //lists of variables: replace all of the 5 and 7 syllable constants in the two arrays below. The more constants you write, the more variety you will have in your poem
 const fiveSyllables = [
-  "jon you are my pet",
-  "garfield was in the oven",
-  "pizza is a dream",
-  "hand over the cheese",
-  "parmesean is life",
-  "i am so hungry",
-  "where did odie go",
-  "get it your damn self",
-  "obey me human",
+  "don't get over zealous in wants",
+  "allow for balance",
+  "exercise self-awareness", 
+  "don't avoid accountability of your actions", 
+  "trapped in a cycle of bad habits",
+  "foundations built, will crumble", 
+  "revolution has started",
+  "no room for the old insitutions",
+  
 ];
 const sevenSyllables = [
-  "cheese makes everything better",
-  "the noodles must be wavey",
-  "nothing left to do but sleep",
-  "thinking about lasagne",
-  "yuk, no i don't want salad",
+  "i know what i want",
+  "no need to stray away",
+  "no need to change",
+  "give up the wheel",
+  "become the passeger for once",
+  "chariot in reverse warning",
+  "don't hold on so tight",
+  "experience pain",
+  "experience grief",
+  
 ];
 //code for haiku function (do not edit)
 const buttonHaiku = document.getElementById("button-haiku");
@@ -111,8 +116,7 @@ const words = [
   "australian family law issues in the news",
 
   "barrister vs lawyer australia",
-  "barrister vs solicitor",
-  "bulk billed therapy",
+  "buy ikea screws",
 
   "can i seek to vary my family court order",
   "ccs has no cctv",
@@ -122,7 +126,7 @@ const words = [
   "delusional jealousy",
   "dv stats australia",
 
-  "earliest memories as a child",
+  "effervescent?",
   "emotional manipulation signs",
 
   "fridge magnets",
