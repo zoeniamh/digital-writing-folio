@@ -1,2 +1,2 @@
 [Author website](https://zoe-tiller.glitch.me/)
-[Exercises] (exercise.md)
+[Excercises](exercise.md)
