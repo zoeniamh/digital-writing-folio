@@ -111,25 +111,25 @@ const textInput = document.getElementById("text-input");
 //search function constants
 //play with Google search function to come up with search terms most relevant to you. Think about how these search terms tell a story. Replace all of the placeholder text below (phrases in red font) with search terms of your own. If you keep the phrases organised alphabetically, you can ensure you have enough results for each word.
 const words = [
-  "art of war free download",
-  "ask izzy",
-  "australian family law issues in the news",
+  "are sharks fish?",
+  "ask mum",
+  "are all writers this tired?",
 
-  "barrister vs lawyer australia",
-  "buy ikea screws",
+  "basic writing jobs, melbourne",
+  "bookshelves",
 
-  "can i seek to vary my family court order",
-  "ccs has no cctv",
-  "childcare how expensive",
+  "cars for sale",
+  "can i still make a claim?",
+  "constant ache?",
 
-  "delete search history",
-  "delusional jealousy",
-  "dv stats australia",
+  "do all men act like that",
+  "delusional daydreaming",
 
-  "effervescent?",
-  "emotional manipulation signs",
+  "emotions out of whack",
+  "evermore font",
 
-  "fridge magnets",
+  "facebook marketplace",
+  "flights to tasmania",
 ];
 //search function (do not edit)
 function changeText(e) {
@@ -161,15 +161,15 @@ textInput.addEventListener("input", changeText);
 //start of code for poem
 
 const subjects =
-    "robots, pilgrims, broken families, displaced animals, right-wing militants, cyborgs".split(
+    "childhood friends, old situationships, broken relationships, shark plushies, strangers on the train, lost lovers".split(
       ","
     ),
   verbs =
-    "wander,search, cross, kneel to pray in, avoid, survey, sneak across, hide in".split(
+    "wander,search, laughs at, kneel down, avoid, cry, weave through, hide in".split(
       ","
     ),
   objects =
-    "the barren plains,the wilted grasslands, vast wastelands,wildernesses unknown,languishing caravan parks, arid deserts, military bunkers, valleys of ash and bone".split(
+    "foggy windows, wet grass, choppy waves, second hand clothes,broken mugs, empty late night roads, flooded paths, discarded rubbish".split(
       ","
     );
 // set up the counter
