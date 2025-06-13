@@ -94,3 +94,35 @@
 
 - What particualr aspects of coding-based writing and e-lit might inform your practice from here on?
 <p> I don't really plan on moving/taking my writing to the digital space in the future. While I had fun experimenting with digital writing, it just doesn't feel completely authentic to my pieces. In saying that, I think it was really good to learn how to make an author website, as now I have that to utilise whenever I may need.</p>
+
+## Reflections
+- Why did you choose this studio?
+<p> I chose this studio as I felt it worked best with my chosen genres of writing, much better than Comics or Writing off Script, and thus I would be able to get much more out of it.</p>
+
+- What knowledge did you possess of digital writing/interactive fiction prior to this studio?
+<p> Very little, to no knowledge.</p>
+
+- What were you excited about learning or furthering your knowledge on?
+<p> Learning to build a website, particuarly the author wesbite, as I knew this would be helpful for the future.</p>
+
+- What were you worried about when joining this studio?
+<p> Honestly, kinda everything. I knew that learning to code would be a harsh learning curve, and this really worried me. As well as this, trying to define what classifies digital writing and how this would work with my current writing style.</p>
+
+- Were there any portions of the class that stood out to you?
+<p> Mainly, again, learning to use glitch and thus building the author website because I knew this would have direct benefits in my life/future of writing.</p>
+
+- Was there anything you were able to expand your prior knowledge on?
+<p> Not really, everyhting I learned this semester was new to me, as I didn't have any prior knowledge of coding or  really digital writing in general.</p>
+
+- What has inspired your final project?
+<p> Past students work mostly. Snow Season played a huge role in inspiring my final piece. But also learning how to use Twine really helped, as it let me get a feel for what was possible. </p>
+
+- What knowledge from this studio are you using to create this final project?
+<p> Twine use and how it works. Mainly setting differenet backgrounds and how to postion text exactly where I want it on each page.</p>
+
+- Is interactive fiction something that you will continue to do after this studio?
+<p> No, I don't think so. I do however find comfort in the fact that I now know how to use it if I ever feel so inclined. </p>
+
+- Has learning about and experimenting with interactive fiction influenced how you approach writing as a whole?
+<p> I'd say no. In this point of my writing career, I feel very stable in my approach to writing, adn not much really influences that. It works well for me, so I don't often feel the need to change it.</p>
+
